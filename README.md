@@ -23,7 +23,7 @@ I'm a passionate **[Network Engineer & Backend Dev]** specializing in **Laravel,
 - **[L2TP VPN Configuration](#)** – Secure VPN setup for remote network access using MikroTik.
 
 ## 📫 Connect With Me
-- 🌍 **Website (OLD Portfolio):** [[yourwebsite.com](https://ariikun.surge.sh/#/)](#)
+- 🌍 **Website (OLD Portfolio):** [There !!](https://ariikun.surge.sh/#/)
 - 📧 **Email:** support-noc@aqtnetwork.my.id
 
 💡 *Always open to new opportunities and collaborations!* 🚀
